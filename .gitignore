@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 rticle-bioc-mentorship.Rproj
+.Rprofile
+renv
+renv.lock
